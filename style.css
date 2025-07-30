@@ -100,7 +100,7 @@ body {
     width: 100%;
     background-color: #f7f8f9;
     font-family: Arial, sans-serif;
-    font-size: 14px;
+    font-size: 13px;
 }
 
 .footer-content-fl {
@@ -112,13 +112,13 @@ body {
 }
 
 .footer-content-sl {
-    padding: 14px 30px; 
+    padding: 15px 30px; 
 }
 
 .footer-item {
     text-decoration: none;
     color: black;
-    margin-right: 14px;
+    margin-right: 13px;
 }
 
 .footer-item:hover {
