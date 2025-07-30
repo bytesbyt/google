@@ -100,19 +100,20 @@ body {
     width: 100%;
     background-color: #f7f8f9;
     font-family: Arial, sans-serif;
-    font-size: 13px;
+    font-size: 12px;
 }
 
 .footer-content-fl {
-    padding: 15px 30px;
+    padding: 13px 30px;
     border-bottom: 1px solid #dadce0;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
 }
 
 .footer-content-sl {
-    padding: 15px 30px; 
+    padding: 13px 30px; 
+}
+
+.footer-content-sl-right {
+    float:right;
 }
 
 .footer-item {
@@ -123,8 +124,4 @@ body {
 
 .footer-item:hover {
     text-decoration: underline;
-}
-
-.footer-content-sl-right {
-    float:right;
 }
